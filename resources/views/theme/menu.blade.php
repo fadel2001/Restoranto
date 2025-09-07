@@ -52,7 +52,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Classic Margherita Pizza</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$18</span>
                                         </h5>
                                         <small class="fst-italic">A crispy thin crust topped with fresh mozzarella,
                                             tomatoes, and basil for a simple yet delicious flavor.</small>
@@ -66,7 +66,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Grilled Ribeye Steak</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$32</span>
                                         </h5>
                                         <small class="fst-italic">Juicy ribeye steak cooked to perfection, served with
                                             creamy mashed potatoes and roasted vegetables.</small>
@@ -80,7 +80,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Creamy Truffle Pasta</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$24</span>
                                         </h5>
                                         <small class="fst-italic">Linguine in a rich truffle cream sauce, topped with
                                             parmesan and fresh parsley for a decadent bite.</small>
@@ -94,7 +94,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Mediterranean Grilled Chicken Salad</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$16</span>
                                         </h5>
                                         <small class="fst-italic">Grilled chicken, crisp greens, olives, and feta, drizzled
                                             with a tangy lemon vinaigrette.</small>
@@ -108,7 +108,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>BBQ Pulled Pork Sandwich</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$14</span>
                                         </h5>
                                         <small class="fst-italic">Slow-cooked pulled pork in smoky BBQ sauce, served on a
                                             toasted brioche bun with coleslaw.</small>
@@ -122,7 +122,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Spicy Tuna Sushi Roll</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$12</span>
                                         </h5>
                                         <small class="fst-italic">Fresh tuna with avocado and cucumber, topped with spicy
                                             mayo and sesame seeds.</small>
@@ -136,7 +136,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Seafood Paella</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$28</span>
                                         </h5>
                                         <small class="fst-italic">Spanish-style rice with mussels, shrimp, and calamari,
                                             cooked with saffron and spices.</small>
@@ -150,7 +150,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Vegetarian Buddha Bowl </span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$15</span>
                                         </h5>
                                         <small class="fst-italic">A wholesome mix of quinoa, roasted veggies, chickpeas,
                                             and avocado with tahini dressing.</small>
@@ -168,7 +168,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Beef Tenderloin</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$35</span>
                                         </h5>
                                         <small class="fst-italic">Succulent beef tenderloin, grilled to your liking and
                                             served with roasted potatoes and seasonal vegetables.</small>
@@ -182,7 +182,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span> Penne Arrabbiata</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$16</span>
                                         </h5>
                                         <small class="fst-italic">Penne pasta in a spicy tomato sauce, garnished with fresh
                                             basil and parmesan for a fiery kick.</small>
@@ -196,7 +196,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Classic Cheeseburger</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$13</span>
                                         </h5>
                                         <small class="fst-italic">Juicy beef patty with melted cheese, lettuce, tomatoes,
                                             and pickles on a toasted bun.</small>
@@ -210,7 +210,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Chicken Shawarma Wrap</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$11</span>
                                         </h5>
                                         <small class="fst-italic">Marinated grilled chicken wrapped with lettuce, tomatoes,
                                             pickles, and garlic sauce in pita bread.</small>
@@ -224,7 +224,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Shrimp Scampi</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$22</span>
                                         </h5>
                                         <small class="fst-italic">Succulent shrimp sautéed in garlic butter and white wine,
                                             served over a bed of linguine.</small>
@@ -238,7 +238,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Vegan Power Bowl</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$14</span>
                                         </h5>
                                         <small class="fst-italic">A hearty bowl of quinoa, kale, roasted sweet potatoes,
                                             and chickpeas with a lemon-tahini dressing.</small>
@@ -252,7 +252,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Buffalo Wings</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$12</span>
                                         </h5>
                                         <small class="fst-italic">Spicy, tangy chicken wings served with celery sticks and
                                             blue cheese dressing.</small>
@@ -266,7 +266,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Fettuccine Alfredo</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$17</span>
                                         </h5>
                                         <small class="fst-italic">Rich and creamy Alfredo sauce tossed with fettuccine,
                                             topped with parmesan and parsley.</small>
@@ -284,7 +284,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Greek Salad</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$12</span>
                                         </h5>
                                         <small class="fst-italic">A refreshing mix of cucumbers, tomatoes, olives, and
                                             feta, drizzled with olive oil and oregano.</small>
@@ -298,7 +298,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Bacon Cheeseburger</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$15</span>
                                         </h5>
                                         <small class="fst-italic">Grilled beef patty topped with crispy bacon, cheddar
                                             cheese, and BBQ sauce on a brioche bun.</small>
@@ -312,7 +312,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>California Roll</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$10</span>
                                         </h5>
                                         <small class="fst-italic">A sushi roll with crab, avocado, and cucumber, topped
                                             with sesame seeds.</small>
@@ -326,7 +326,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span> Chicken Tikka Wrap</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$13</span>
                                         </h5>
                                         <small class="fst-italic">Grilled chicken tikka wrapped with lettuce, onions, and a
                                             mint yogurt sauce in naan bread.</small>
@@ -340,7 +340,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Lobster Ravioli</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$26</span>
                                         </h5>
                                         <small class="fst-italic">Ravioli filled with lobster, tossed in a creamy tomato
                                             sauce with a hint of garlic.</small>
@@ -354,7 +354,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Avocado Toast</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$9</span>
                                         </h5>
                                         <small class="fst-italic">Fresh avocado spread on toasted sourdough, topped with
                                             cherry tomatoes and a drizzle of olive oil.</small>
@@ -368,7 +368,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Lamb Chops</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$29</span>
                                         </h5>
                                         <small class="fst-italic">Juicy, grilled lamb chops seasoned with herbs and served
                                             with roasted vegetables and mint sauce.</small>
@@ -382,7 +382,7 @@
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Double Cheeseburger</span>
-                                            <span class="text-primary">$115</span>
+                                            <span class="text-primary">$17</span>
                                         </h5>
                                         <small class="fst-italic">Two beef patties stacked with melted cheese, lettuce,
                                             tomatoes, and pickles on a toasted sesame bun.</small>

@@ -13,7 +13,7 @@
                 <h4 class="section-title ff-secondary text-start text-primary fw-normal mb-4">Contact</h4>
                 <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, Amman, Jordan</p>
                 <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+962 7999 9999 9</p>
-                <p class="mb-2"><i class="fa fa-envelope me-3"></i>email@project.com</p>
+                <p class="mb-2"><i class="fa fa-envelope me-3"></i>RestorantoSupport@gmail.com</p>
                 <div class="d-flex pt-2">
                     <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
